@@ -1,0 +1,6 @@
+ultralytics 
+os 
+opencv-python 
+matplotlib 
+json
+gdown

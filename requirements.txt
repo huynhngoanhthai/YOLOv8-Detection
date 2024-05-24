@@ -1,6 +1,4 @@
-ultralytics 
-os 
+ultralytics  
 opencv-python 
 matplotlib 
-json
 gdown
